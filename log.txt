@@ -1,5 +1,5 @@
-2026-04-02 07:03:44,538 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
-2026-04-02 07:03:45,167 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
-2026-04-02 07:03:45,873 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
-2026-04-02 07:03:46,314 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
-2026-04-02 07:03:46,924 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f18b70f0cb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-02 09:54:28,528 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2026-04-02 09:54:29,294 - debug - URL Streams https://www.youtube.com/@americaenvivo/live: {}
+2026-04-02 09:54:30,063 - debug - URL Streams https://www.youtube.com/@LofiGirl/live: {}
+2026-04-02 09:54:30,797 - debug - URL Streams https://www.twitch.tv/xt_t419r: {}
+2026-04-02 09:54:31,553 - error - URL Error https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8: HTTPSConnectionPool(host='live-edge01.telecentro.net.ar', port=443): Max retries exceeded with url: /live/smil:tlx.smil/playlist.m3u8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9198365880>: Failed to establish a new connection: [Errno 111] Connection refused'))
